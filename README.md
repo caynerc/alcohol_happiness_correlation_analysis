@@ -45,7 +45,7 @@ The regression analysis yielded an R-Squared value of 0.29, implying 29% of happ
 ## Visualization
 Visualizations, like the scatter plot, visually represent the correlation, and a trend line shows a modest upward trend as alcohol consumption increases. (Include images by uploading them to your repository and linking them in your markdown).
 
-![Scatter Plot](images\alcohol-consumption_vs_happiness-scores.png)
+![Scatter Plot](images/alcohol-consumption_vs_happiness-scores.png)
 
 ## Statistical Significance
 The p-value of close to 0 indicates the correlation is statistically significant, reducing the likelihood that the observed relationship is due to random chance.
